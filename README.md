@@ -1,6 +1,5 @@
 # settings-profile
-Configuracion personal de vscode
+Configuración personal de vscode
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://youtu.be/9-zfRACFFUo?si=wa4UJ3G-0mtifs9R)
-
+## Ver en Youtube como se utiliza esta configuración.
 [![Alt text](https://img.youtube.com/vi/9-zfRACFFUo/0.jpg)](https://www.youtube.com/watch?v=9-zfRACFFUo)
