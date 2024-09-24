@@ -1,4 +1,4 @@
-# Configuracion perzonalizada del perfil en VSCODE
+# Configuración personalizada del perfil en VS Code
 Configuración personal de vscode
 
 ## Ver en Youtube como se utiliza esta configuración.
